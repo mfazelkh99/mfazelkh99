@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Mohammad Fazel Kharami 👋
 
-<!--
-**mfazelkh99/mfazelkh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer | CRM Systems Developer | Python Automation
 
-Here are some ideas to get you started:
+I build modern web applications, CRM systems, automation platforms and Python bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- CRM Systems
+- Business Automation
+- Python Bots
+- Web Applications
+- Admin Panels
+- REST APIs
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+- Python
+- PHP
+- MySQL
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Nginx
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel
+- React
+- Docker
+- Clean Architecture
+
+---
+
+## 📌 Main Interests
+
+- CRM Systems
+- Automation
+- Full Stack Development
+- Web Applications
+- APIs
+- Database Design
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/mfazelkh99
+
+---
+
+⭐ Building useful software every day.
