@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Fazel Kharami 👋
+# Hi, I'm Mohammad Fazel khorrami 👋
 
 ## Full Stack Web Developer | CRM Systems Developer | Python Automation
 
