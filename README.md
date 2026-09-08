@@ -2,6 +2,8 @@
 
 ## Full Stack Web Developer | CRM Systems Developer | Python Automation
 
+You can visit [my website(portfolio)](https://fazeldev.ir) and contact me directly.
+
 I build modern web applications, CRM systems, automation platforms and Python bots.
 
 Currently focused on:
